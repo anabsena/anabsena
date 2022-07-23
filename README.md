@@ -1,6 +1,7 @@
 ### Hi I am Ana 😜
-## Cursando o segundo semestre de Analise e Desenvolvimento de Sistemas💻📚
+##  Cursando o segundo semestre de Analise e Desenvolvimento de Sistemas💻📚
 ## Apaixonada pela área de Frontend💕
+<style="font-size:10em"
 <div align="center">
   <a href="https://github.com/anabsena">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anabsena&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
