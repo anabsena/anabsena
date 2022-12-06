@@ -1,5 +1,5 @@
 ### Hi I am Ana 😜
-#### - Cursando o segundo semestre de Analise e Desenvolvimento de Sistemas💻📚
+#### - Cursando o terceiro semestre de Analise e Desenvolvimento de Sistemas💻📚
 #### - Apaixonada pela área de Frontend💕
 <div align="center">
   <a href="https://github.com/anabsena">
