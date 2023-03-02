@@ -2,12 +2,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0084&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0084&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Ana+Beatri+Sena;Tenho+18+anos;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
-
+#### - Cursando o terceiro semestre de Analise e Desenvolvimento de Sistemas💻📚
+#### - Apaixonada pela área de Frontend💕
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anabsena&show_icons=true&count_private=true&hide_border=true&title_color=ff0084&icon_color=ff0084&text_color=ffffff&bg_color=0d1117" alt="Dieimes Nunes" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anabsena&show_icons=true&count_private=true&hide_border=true&title_color=ff0084&icon_color=ff0084&text_color=ffffff&bg_color=0d1117" alt="Ana Beatriz" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabsena&layout=compact&hide_border=true&title_color=ff0084&text_color=ff0084&bg_color=0d1117" />
 </div>
+
 
 
 ![Snake animation](https://github.com/anabsena/anabsena/blob/output/github-contribution-grid-snake.svg)
