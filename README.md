@@ -2,9 +2,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0084&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0084&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Ana+Beatri+Sena;Tenho+20+anos;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
-#### - Cursando o quinto semestre de Analise e Desenvolvimento de Sistemas💻📚
+#### - Formada em Analise e Desenvolvimento de Sistemas💻📚
 #### - Desenvolvedora Frontend💕
-#### - Aprendendo o Backend
+### - Ui/Ux Designer ✒️
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anabsena&show_icons=true&count_private=true&hide_border=true&title_color=ff0084&icon_color=ff0084&text_color=ffffff&bg_color=0d1117" alt="Ana Beatriz" /> 
