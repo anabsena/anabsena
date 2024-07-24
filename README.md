@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0084&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0084&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Ana+Beatri+Sena;Tenho+19+anos;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0084&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Ana+Beatri+Sena;Tenho+20+anos;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 #### - Cursando o quinto semestre de Analise e Desenvolvimento de Sistemas💻📚
 #### - Desenvolvedora Frontend💕
 #### - Aprendendo o Backend
