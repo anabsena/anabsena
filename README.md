@@ -4,7 +4,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0084&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Ana+Beatri+Sena;Tenho+20+anos;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 #### - Formada em Analise e Desenvolvimento de Sistemas💻📚
 #### - Desenvolvedora Frontend💕
-### - Ui/Ux Designer ✒️
+#### - UI/UX Designer ✒️
+### - 👜 1 ano e meio sendo dev na Custom Code - BRConnect 
+
+#### - Conheça mais sobre mim ⬇️
+<a src='https://portfolio-ana-next.vercel.app/'>Meu site</a>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anabsena&show_icons=true&count_private=true&hide_border=true&title_color=ff0084&icon_color=ff0084&text_color=ffffff&bg_color=0d1117" alt="Ana Beatriz" /> 
