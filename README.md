@@ -8,6 +8,7 @@
 - 💕 Desenvolvedora Frontend
 - 🎨 UI/UX Designer
 - 💼 1 ano e meio sendo dev na Custom Code - BRConnect
+- 👩‍🏫 Prof de programação 
 - 🔗 [Meu site](https://portfolio-ana-next.vercel.app/)
 
 <div align="center">  
