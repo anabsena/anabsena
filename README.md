@@ -8,7 +8,7 @@
 - 🎓 Pós graduada em Design
 - 💕 Desenvolvedora Frontend
 - 🎨 UI/UX Designer
-- 💼 Cresol União dos Vales
+- 💼 Marketing Cresol União dos Vales
 - 👩‍🏫 Prof de programação 
 - 🔗 [Meu site](https://portfolio-ana-next.vercel.app/)
 
