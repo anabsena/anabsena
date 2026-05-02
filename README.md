@@ -7,7 +7,7 @@
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas
 - 💕 Desenvolvedora Frontend
 - 🎨 UI/UX Designer
-- 💼 1 ano e meio sendo dev na Custom Code - BRConnect
+- 💼 Cresol União dos Vales
 - 👩‍🏫 Prof de programação 
 - 🔗 [Meu site](https://portfolio-ana-next.vercel.app/)
 
