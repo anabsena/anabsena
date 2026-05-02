@@ -5,6 +5,7 @@
 ## 👩‍💻 Sobre mim
 
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas
+- 🎓 Pós graduada em Design
 - 💕 Desenvolvedora Frontend
 - 🎨 UI/UX Designer
 - 💼 Cresol União dos Vales
